@@ -1,0 +1,12 @@
+# Private source materials
+*.pdf
+*.docx
+*.pkl
+*.xlsx
+# Student analysis/report outputs
+gpt/math_interactive_source_code/report_18/
+gpt/math_interactive_source_code/report_25/
+# Local/editor files
+.vscode/
+.idea/
+
